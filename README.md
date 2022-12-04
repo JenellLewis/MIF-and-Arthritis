@@ -1,5 +1,8 @@
 # MIF-and-Arthritis
 # Introduction
+MIF (Macrophage Migration Inhibitory Factor) is a gene that has been linked to many diseases such as arthritis, lung cancer, kidney disease, etc. This project focused on analyzing the effect of MIF knockout in mice. This was done to find the top differentially expressed genes when comparing wild type to MIF knockout. 
+Since the MIF gene is most commonly known to be linked to arthritis, an analysis of the CDC Chronic Disease Indicator Arthritis dataset was performed. This was done to find the prevalence of arthritis and to see if there is any correlation between the different indicators or questions
+
 Macrophage Migration Inhibitory Factor:
 This gene encodes a lymphokine involved in cell-mediated immunity, immunoregulation, and inflammation. It plays a role in the regulation of macrophage function in host defense through the suppression of anti-inflammatory effects of glucocorticoids.  
 Broad expression in kidney, prostate, and 21 other tissues 
