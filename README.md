@@ -102,7 +102,7 @@ Also, the states that had a high prevalence of arthritis had the highest amount 
 Since most of the differentially expressed genes did not have immunology functions, the null hypothesis of the MIF gene analysis is accepted.
 Since the results for the arthritis dataset aligned with previous literature, the null hypothesis of the arthritis analysis is rejected.
 A limitation of the study was not having access to MIF knockout datasets in arthritis patients along with that dataset being large enough for predictive analysis. Also, there were not many publicly available arthritis datasets. 
-For future work, the MIF gene in arthritis patients vs MIF knockout or MIF inhibition will be interesting, so that a better understanding of the mechanism can be understood. This can possibly help in developing treatment options.
+For future work, the MIF gene in arthritis patients vs MIF knockout or MIF inhibition will be interesting, so that a better understanding of the mechanism can be accomplished. This can possibly help in developing treatment options.
 
 
 
