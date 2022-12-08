@@ -106,5 +106,29 @@ For future work, the MIF gene in arthritis patients vs MIF knockout or MIF inhib
 
 
 
+# References
+U.S. National Library of Medicine. (n.d.). Mif macrophage migration inhibitory factor [homo sapiens (human)] - gene. National Center for Biotechnology Information. Retrieved from https://www.ncbi.nlm.nih.gov/gene/4282 
+
+Rowe, M. A., Harper, L. R., et.al. (2017, February). Reduced osteoarthritis severity in aged mice with deletion of macrophage migration inhibitory factor. Arthritis & rheumatology (Hoboken, N.J.). Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5274570/ 
+
+Gua, Y., Xiaob, L., et.al. (2021, July 24). Gene knockout or inhibition of macrophage migration inhibitory factor alleviates lipopolysaccharide-induced liver injury via inhibiting inflammatory response. Hepatobiliary & Pancreatic Diseases International. Retrieved from https://www.sciencedirect.com/science/article/abs/pii/S1499387221001259 
+
+Mawhinney, L., Armstrong, M. E., et.al. (2014). Macrophage Migration Inhibitory Factor (MIF) Enzymatic Activity and Lung Cancer. Molecular Medicine, 20(1), 729–735. https://doi.org/10.2119/molmed.2014.00136
+
+Li, Y., Lee, P. Y., Sobel, E. S., et.al. (2009). Increased expression of FcgammaRI/CD64 on circulating monocytes parallels ongoing inflammation and nephritis in lupus. Arthritis Research & Therapy, 11(1), R6. https://doi.org/10.1186/ar2591
+
+Barbour, K. E., Moss, S., Croft, J. B., et al.Geographic Variations in Arthritis Prevalence, Health-Related Characteristics, and Management — United States, 2015. MMWR Surveillance Summaries, 67(4), 1–28. https://doi.org/10.15585/mmwr.ss6704a1 
+
+IRF7 Gene - GeneCards | IRF7 Protein | IRF7 Antibody. (n.d.). Www.genecards.org. Retrieved December 4, 2022, from https://www.genecards.org/cgi-bin/carddisp.pl?gene=IRF7 
+
+Evans, D. T., Serra-Moreno, R., Singh, R. K., & Guatelli, J. C. (2010). BST-2/tetherin: a new component of the innate immune response to enveloped viruses. Trends in Microbiology, 18(9), 388–396. https://doi.org/10.1016/j.tim.2010.06.010
+
+FGF10 gene: MedlinePlus Genetics. (n.d.). Medlineplus.gov. Retrieved December 4, 2022, from https://medlineplus.gov/genetics/gene/fgf10/
+
+OAS2 Gene - GeneCards | OAS2 Protein | OAS2 Antibody. (n.d.). Www.genecards.org. https://www.genecards.org/cgi-bin/carddisp.pl?gene=OAS2#:~:text=This%20gene%20encodes%20a%20member
+
+
+
+
 
 
