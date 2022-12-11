@@ -99,7 +99,7 @@ Fig10: Correlation heatmap of the questions based on the average YearStart preva
 The results of the differential gene expression of wild type vs MIF knockout show that more viral response genes are activated in MIF knockout, along with cell development genes. 
 The analysis of the arthritis dataset shows that men are less likely to have arthritis than women, which supports previous literature. 
 Also, the states that had a high prevalence of arthritis had the highest amount of arthritis with heart disease and diabetes. This shows that a reduction in these diseases can help in reducing arthritis. 
-Since most of the differentially expressed genes did not have immunology functions, the null hypothesis of the MIF gene analysis is accepted.
+Most of the top five differentially expressed genes have immunology functions, so the null hypothesis of the MIF gene analysis is rejected.
 Since the results for the arthritis dataset aligned with previous literature, the null hypothesis of the arthritis analysis is rejected.
 A limitation of the study was not having access to MIF knockout datasets in arthritis patients along with that dataset being large enough for predictive analysis. Also, there were not many publicly available arthritis datasets. 
 For future work, the MIF gene in arthritis patients vs MIF knockout or MIF inhibition will be interesting, so that a better understanding of the mechanism can be accomplished. This can possibly help in developing treatment options.
