@@ -57,9 +57,20 @@ Fig1: Volcano Plot of the top ten differentially expressed genes in Wild Type vs
 
 ![image](https://user-images.githubusercontent.com/80493086/205506626-c2d1fc0b-df8b-463a-8607-e481295dfb6d.png)
 
+Top 5 differentially Expressed Genes:
+MIF: macrophage migration inhibitory factor 
+IRF7: interferon regulatory factor 7
+BST2: bone marrow stromal cell antigen 2 
+FGF10: fibroblast growth factor 10 
+OAS2: 2'-5' oligoadenylate synthetase 2 
+
 Fig2: Heatmap of Wild Type vs MIF knockout. The blue represents downregulation, and the red represents upregulation. The wild type samples had a lot of downregulated genes, while the MIF knockout had a lot of upregulated genes 
 
 ![image](https://user-images.githubusercontent.com/80493086/205506718-fda0e8ab-c9a1-4eac-9bc4-89f7eadb848a.png)
+
+The MIF and IRF7 genes were downregulated in the MIF knockout samples. As mentioned previously, the MIF genes play a role in inflammatory and immune responses. The IRF7 gene helps in the transcriptional activation of virus-inducible cellular genes. 
+The BST2, FGF10, and OAS2 genes were upregulated in the MIF knockout samples. BST2’s function is to hold virus particles to the cells that produce them, thus preventing these particles from spreading. FGF10 functions by attaching to a receptor and then initiates a series of chemical reactions in the cell. These chemical reactions cause the cell to change in certain ways, for example, “cell division, regulation of cell growth and maturation, formation of blood vessels, wound healing, and development before birth”. The OAS2 gene makes proteins that play a part in the innate immune response to viral infections. 
+Most of these differentially expressed genes play a role in immune response or viral responses and one of the genes dealt with cell development. 
 
 Fig3: PCA graph of PC1 vs PC2. PC1 separates the samples by condition (MIF genes to the left and wild type to the right of the graph). PC2 separates the MIF samples.
 
@@ -73,9 +84,22 @@ Fig5: PCA of PC1 vs PC4. PC1 separates the samples by condition. PC4 separates b
 
 ![image](https://user-images.githubusercontent.com/80493086/205506758-7b046fc5-a6a7-4b0b-b179-c80310c3b409.png)
 
+Based on the PCA, most of the variation in the samples, around 90% was covered by PC1. PC2, PC3, and PC4 were also able to separate the samples but by less than 20%. 
+Therefore, the most variation in the samples is between the conditions, and there is very little variation in the samples for each condition.
+
 Fig6: GO Term plot of the top ten activated and suppressed genes. The count is represented by the size of the dot and the adjusted p-value is represented by the color. 
 
 ![image](https://user-images.githubusercontent.com/80493086/205506783-98c07ced-f016-4474-a30a-d413b48d3065.png)
+
+Top five GO Terms:
+GO:0000070 - mitotic sister chromatid segregation
+GO:0000278 - mitotic cell cycle
+GO:0000280 - nuclear division 
+GO:0000819 - sister chromatid segregation 
+GO:0006259 - DNA metabolic process
+
+GO term enrichment analysis is usually performed to look at the function of genes.  
+The functions for the top five GO terms mostly deal with mitosis which is the process by which one cell divides into two, also called cell division. So, this is consistent with the upregulated FGF10 gene in MIF knockout, and therefore, the knockout most likely influenced cell division (increasing it in this case).
 
 Fig7: QuestionID and Question key to read heatmaps
 
@@ -93,7 +117,12 @@ Fig10: Correlation heatmap of the questions based on the average YearStart preva
 
 ![image](https://user-images.githubusercontent.com/80493086/205506854-31a309fc-72ae-4fa6-bf01-75685c4c9777.png)
 
-
+There was a correlation between people who had arthritis along with heart disease, diabetes, and obesity. 
+There was also a correlation between activity limitations, work limitations, fair or poor health, and adults who have taken a class to learn how to manage symptoms. 
+This shows that people who are severely impacted by arthritis are more likely to take these classes. 
+Physical inactivity had a negative correlation with people who take these classes. 
+This means that people who are inactive are less likely to take the class, maybe because their situation is extremely severe and requires another type of treatment.
+The results from the Stratification and Location prevalence values seem to be more in line with previous literature than the YearStart values.
 
 # Conclusion
 The results of the differential gene expression of wild type vs MIF knockout show that more viral response genes are activated in MIF knockout, along with cell development genes. 
