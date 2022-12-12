@@ -101,19 +101,34 @@ GO:0006259 - DNA metabolic process
 GO term enrichment analysis is usually performed to look at the function of genes.  
 The functions for the top five GO terms mostly deal with mitosis which is the process by which one cell divides into two, also called cell division. So, this is consistent with the upregulated FGF10 gene in MIF knockout, and therefore, the knockout most likely influenced cell division (increasing it in this case).
 
-Fig7: QuestionID and Question key to read heatmaps
+Fig7: Stacked bar graph of the stratification per question separated by type of prevalence. This shows that the "activity limitation due to arthritis" question had the largest prevalence using the stratification feature. There is also not a large visible difference between the different stratification values in each question.
+
+![image](https://user-images.githubusercontent.com/80493086/207072150-c09d4fd3-aee1-43dc-b063-1edece2b53a3.png)
+
+Fig8: Stacked bar graph of the location per question separated by type of prevalence. It was found that the "arthritis with heart disease" question had the largest prevalence based on the location feature.
+
+![image](https://user-images.githubusercontent.com/80493086/207072220-91cac1f8-db72-4428-a35b-4de0014f1ba0.png)
+
+Fig9: Stacked bar graph of the year per question separated by type of prevalence. This shows that heart disease had the highest prevalence over the years. 
+
+![image](https://user-images.githubusercontent.com/80493086/207072295-90e5aaa5-6c74-4725-82cf-bb621a0924f1.png)
+
+According to the stratification feature, Multiracial, non-Hispanic, and Black, non-Hispanic had the largest average prevalence values of around 40 to 44. Male and White, non-Hispanic had the lowest values of around 32 to 35. For the location feature, Hawaii and the Virgin Islands had an average value of around 24 to 29. West Virginia and Kentucky had the highest values of around 45. Looking at the year feature, 2020 had the lowest average value of approximately 34, and 2015 had the largest average value of approximately 37.
+
+
+Fig10: QuestionID and Question key to read heatmaps
 
 ![image](https://user-images.githubusercontent.com/80493086/205506798-a5a5a813-db95-448c-9579-aa84c12b8aa8.png)
 
-Fig8: Correlation heatmap of the questions based on the average Stratification prevalence values.
+Fig11: Correlation heatmap of the questions based on the average Stratification prevalence values.
 
 ![image](https://user-images.githubusercontent.com/80493086/205506821-dc443c8f-b312-4210-897b-4ff4558a0f32.png)
 
-Fig9: Correlation heatmap of the questions based on the average Location prevalence values. 
+Fig12: Correlation heatmap of the questions based on the average Location prevalence values. 
 
 ![image](https://user-images.githubusercontent.com/80493086/205506836-72bcee2a-558e-42fe-affd-8d0cefbbc501.png)
 
-Fig10: Correlation heatmap of the questions based on the average YearStart prevalence values. 
+Fig13: Correlation heatmap of the questions based on the average YearStart prevalence values. 
 
 ![image](https://user-images.githubusercontent.com/80493086/205506854-31a309fc-72ae-4fa6-bf01-75685c4c9777.png)
 
