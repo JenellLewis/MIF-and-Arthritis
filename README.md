@@ -20,6 +20,8 @@ Mif knockout: ERR4368607 and ERR4368608
 Wild-type: ERR4368610 and ERR4368611
 Fastq format
 Paired-end
+https://www.ncbi.nlm.nih.gov/Traces/study/?acc=ERP123049 
+
 
 
 Arthritis Dataset:
@@ -32,9 +34,10 @@ Stratification1
 DataValue
 
 # Hypothesis
+Based on the literature review, MIF knockout/inhibition usually affected immunological responses. Also, states that had a high prevalence of arthritis also had a high prevalence of other diseases. Finally, there is usually a higher prevalence of arthritis in women than in men. I based my hypotheses on these studies. 
+
 Hypothesis for MIF gene:
 The top differentially expressed genes will have functions in immunology. 
-
 
 Hypothesis for Arthritis:
 States with an overall large prevalence of arthritis will also have a large prevalence of patients who also have another disease. There is also a larger prevalence in women compared to men.
@@ -45,6 +48,7 @@ FASTQC
 CUTADAPT
 ALIGNMENT
 Differential Gene Expression
+(https://usegalaxy.org/u/jenell22/h/capstone)
 Volcano Plot and Heatmap created in R from the Differential Gene Expression results.
 GO Term Enrichment Analysis done in R from the Differential Gene Expression results.
 
